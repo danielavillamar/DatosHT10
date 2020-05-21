@@ -18,3 +18,7 @@ Retalhuleu Guatemala 87
 Retalhuleu Antigua 18
 ElProgreso Retalhuleu 67
 Escuintla Retalhuleu 23
+Flores AltaVerapaz 36
+AltaVerapaz BajaVerapaz 17
+Huehuetenango Guatemala 65
+Antigua RioDulce 167
