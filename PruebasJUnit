@@ -24,7 +24,7 @@ class JUnit {
      * Test method for {@link Graph#algoritmoFW()}.
      */
     @Test
-    void testAlgoritmoFW() {
+    void testFloydAlgorithm() {
       fail("Not yet implemented");
     }
 
